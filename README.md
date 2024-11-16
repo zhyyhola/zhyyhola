@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on language processing.
 - 📫 How to reach me zhyy@bu.edu
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: Swimming on a rainy day is coo1!
+- ⚡ Fun fact: Swimming on a rainy day is cool!
 
 <!---
 zhyyhola/zhyyhola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
