@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yuanyuan.
+- 👋 Hi, I’m Yuanyuan Zhang.
 - 👀 I’m interested in syntax, semantics, and computational linguistics. 
 - 🌱 I’m currently learning French.
 - 💞️ I’m looking to collaborate on language processing.
